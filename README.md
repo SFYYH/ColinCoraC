@@ -9,7 +9,7 @@
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
 - ❤️ I like eating 🍉, watching📺[ACG], playing 🏓, sleeping in 🛌 
-- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/SFYYH/SFYYH/issues).
 
 ---
 </details>
