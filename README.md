@@ -7,7 +7,8 @@
 
 <!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
-
+- 🏡 I come from a remote small town in Hebei Province, China💖
+- 🌴 I like traveling, and my biggest goal is to travel around the world with the people I like🍭
 - ❤️ I like eating 🍉, watching📺[ACG], playing 🏓, sleeping in 🛌 
 - 💬 Be free to ask me about anything [here](https://github.com/SFYYH/SFYYH/issues).
 
