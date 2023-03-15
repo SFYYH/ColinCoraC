@@ -39,7 +39,4 @@
   <div align="center">
 	<img width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=SFYYH" />
 </div>
-<div>
-	<img src="[https://github-readme-streak-stats.herokuapp.com/?user=SFYYH](https://github-readme-stats.vercel.app/api/top-langs/?username=SFYYH&theme=dark&layout=compact)" />
-</div>
  ![](https://github-readme-stats.vercel.app/api?username=SFYYH&show_icons=true&theme=dark&count_private=true)
